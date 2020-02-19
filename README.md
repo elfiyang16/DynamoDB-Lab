@@ -4,10 +4,12 @@
 
 **Step 1:**
 Start DynamoDB Server
+
 $ dynamodb
 
 **Step 2:**
 Open another terminal.
+
 $ git clone https://github.com/sanket143/DynamoDB-Lab
 
 This will create a folder DynamoDB-Lab.
