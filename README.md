@@ -1,5 +1,17 @@
 # Lab 3 - Hands on DynamoDB
 
+### Instructions
+
+**Step 1:**
+Start DynamoDB Server
+$ dynamodb
+
+**Step 2:**
+Open another terminal.
+$ git clone https://github.com/sanket143/DynamoDB-Lab
+
+This will create a folder DynamoDB-Lab.
+
 [DynamoDB Lab Template](https://github.com/sanket143/DynamoDB-Lab): Here is the boilerplate you'll be using.
 
 Click on `Use this template` button on the repo to make a copy for you and clone it and you're good to go.
