@@ -95,7 +95,7 @@ You'll be writing all your code in `q#.py` files and are suppose to submit compr
 
 **1. Create a table `WebAccessLog` for <span style="color: crimson">data/logs/web_access_log.json</span> with following constraints:**
 
-- Partition Key: `ip_addr`
+- Partition Key: `ipaddr`
 - Sort Key: `req_no`
 
 
