@@ -3,7 +3,7 @@
 ### Instructions
 
 **Step 1:**
-Start DynamoDB Server
+Setup your DynamoDB Server and start it as per instructions given [here](https://github.com/sanket143/DynamoDB-Lab/wiki/Setup-Dynamo-DB-on-your-machine)
 
 $ dynamodb
 
